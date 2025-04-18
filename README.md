@@ -45,12 +45,6 @@ Contributions are welcome! Open an **issue** or submit a **PR** for improvements
 ## **📜 License**  
 This project is under the **MIT License**. See [LICENSE](LICENSE) for details.  
 
----
-**👨‍💻 Author:** [Ontu](https://github.com/ontu001)  
-**📧 Contact:** [Your Email]  
-
----
-
 ### **🔗 Useful Links**  
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)  
 - [SQL Style Guide](https://www.sqlstyle.guide)  
